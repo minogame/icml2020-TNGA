@@ -1,0 +1,64 @@
+23:24:50: [[2 2 2 2 0 0 0 0]
+ [2 2 2 2 0 0 0 2]
+ [2 2 2 2 0 2 0 0]
+ [2 2 2 2 0 0 2 0]
+ [0 0 0 0 2 0 2 0]
+ [0 0 2 0 0 2 2 2]
+ [0 0 0 2 2 2 2 0]
+ [0 2 0 0 0 2 0 2]]
+23:24:50: New agent id = 0 found!
+23:29:24: [[2 2 2 2 0 0 0 0]
+ [2 2 2 2 0 0 0 2]
+ [2 2 2 2 0 2 0 0]
+ [2 2 2 2 0 0 2 0]
+ [0 0 0 0 2 0 2 0]
+ [0 0 2 0 0 2 2 2]
+ [0 0 0 2 2 2 2 0]
+ [0 2 0 0 0 2 0 2]]
+23:29:24: New agent id = 0 found!
+23:29:24: Assigned individual generation_001/MVMLPZ/000 to agent 0.
+23:29:24: Current number of known agents is 1.
+23:29:24: ['0']
+23:29:24: Current length of indv_to_distribute is 29.
+23:29:24: Current length of indv_to_collect is 1.
+23:29:24: [('generation_001/MVMLPZ/000', '0')]
+23:31:30: [[2 2 0 0]
+ [2 2 0 0]
+ [0 0 2 2]
+ [0 0 2 2]]
+23:31:30: New agent id = 0 found!
+23:31:30: Assigned individual generation_001/7V00E6/000 to agent 0.
+23:31:30: Current number of known agents is 1.
+23:31:30: ['0']
+23:31:30: Current length of indv_to_distribute is 29.
+23:31:30: Current length of indv_to_collect is 1.
+23:31:30: [('generation_001/7V00E6/000', '0')]
+23:31:43: Assigned individual generation_001/7V00E6/001 to agent 0.
+23:31:43: Collected individual result generation_001/7V00E6/000.
+23:31:55: Assigned individual generation_001/7V00E6/002 to agent 0.
+23:31:55: Collected individual result generation_001/7V00E6/001.
+23:32:12: Assigned individual generation_001/7V00E6/003 to agent 0.
+23:32:12: Collected individual result generation_001/7V00E6/002.
+23:32:25: Assigned individual generation_001/7V00E6/004 to agent 0.
+23:32:25: Collected individual result generation_001/7V00E6/003.
+23:32:37: Assigned individual generation_001/7V00E6/005 to agent 0.
+23:32:37: Collected individual result generation_001/7V00E6/004.
+23:32:50: Assigned individual generation_001/7V00E6/006 to agent 0.
+23:32:50: Collected individual result generation_001/7V00E6/005.
+23:33:04: Assigned individual generation_001/7V00E6/007 to agent 0.
+23:33:04: Collected individual result generation_001/7V00E6/006.
+23:33:17: Assigned individual generation_001/7V00E6/008 to agent 0.
+23:33:17: Collected individual result generation_001/7V00E6/007.
+23:33:29: Assigned individual generation_001/7V00E6/009 to agent 0.
+23:33:29: Collected individual result generation_001/7V00E6/008.
+23:33:41: Assigned individual generation_001/7V00E6/010 to agent 0.
+23:33:41: Collected individual result generation_001/7V00E6/009.
+23:33:53: Assigned individual generation_001/7V00E6/011 to agent 0.
+23:33:53: Collected individual result generation_001/7V00E6/010.
+23:34:05: Assigned individual generation_001/7V00E6/012 to agent 0.
+23:34:05: Collected individual result generation_001/7V00E6/011.
+23:34:18: Current length of indv_to_distribute is 17.
+23:34:18: Current length of indv_to_collect is 1.
+23:34:18: [('generation_001/7V00E6/012', '0')]
+23:34:22: Assigned individual generation_001/7V00E6/013 to agent 0.
+23:34:22: Collected individual result generation_001/7V00E6/012.
